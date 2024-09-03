@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+    minWidth="-Infinity" prefHeight="304.0" prefWidth="364.0" xmlns="http://javafx.com/javafx/17"
+    xmlns:fx="http://javafx.com/fxml/1">
+    <Label layoutX="24.0" layoutY="14.0" prefHeight="25.0" prefWidth="153.0" text="Về ứng dụng:">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+    <Label layoutX="24.0" layoutY="39.0" prefHeight="25.0" prefWidth="177.0"
+        text="-   Từ điển Anh - Việt (v1.0)">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    <Label layoutX="24.0" layoutY="64.0" prefHeight="25.0" prefWidth="177.0"-->
+<!--        text="-   Hoàn thiện: ">-->
+<!--        <font>-->
+<!--            <Font size="14.0"/>-->
+<!--        </font>-->
+<!--    </Label>-->
+<!--    from 89 to 64-->
+    <Label layoutX="24.0" layoutY="64.0" prefHeight="25.0" prefWidth="317.0"
+        text="-   Tác giả: Nhóm 1 - INT2204_2">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    from 114 to 89-->
+    <Label layoutX="24.0" layoutY="89.0" prefHeight="25.0" prefWidth="177.0"
+        text="     +    Trần Hoàng Anh">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    from 139 to 114-->
+    <Label layoutX="24.0" layoutY="114.0" prefHeight="25.0" prefWidth="177.0"
+        text="     +    Chu Viết Kiên">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    from 164 to 139-->
+    <Label layoutX="24.0" layoutY="139.0" prefHeight="25.0" prefWidth="177.0"
+        text="     +    Văn Đức Thiện">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    from 211 to 164-->
+    <Label layoutX="26.0" layoutY="164.0" prefHeight="25.0" prefWidth="317.0" text="-   Tính năng:">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    from 236 to 211-->
+    <Label layoutX="26.0" layoutY="211.0" prefHeight="25.0" prefWidth="324.0"
+        text="     +    Giải nghĩa của từ tiếng Anh sang Tiếng Việt.">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    from 261 to 236-->
+    <Label layoutX="26.0" layoutY="236.0" prefHeight="25.0" prefWidth="350.0"
+        text="     +    Tích hợp Google Translate.">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Label>
+<!--    <Label layoutX="24.0" layoutY="189.0" prefHeight="25.0" prefWidth="332.0"-->
+<!--        text="-   Github: https://github.com/HynDuf7/dictionary">-->
+<!--        <font>-->
+<!--            <Font size="14.0"/>-->
+<!--        </font>-->
+<!--    </Label>-->
+</AnchorPane>
